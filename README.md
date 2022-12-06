@@ -8,4 +8,4 @@
   |Institute|B.L Govt. High School|Sirajganj Govt. Collage|Khulna University of Engineering and Technology|
   |Major|Science|Science|Electronics and Communication Engineering|
   |CGPA|5.0|5.0|2.84|
-  
+  |Passing Year|2014|2016|2022|
