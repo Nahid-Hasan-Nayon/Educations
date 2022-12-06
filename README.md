@@ -1,2 +1,2 @@
 # Educations
-This contains details about my academic career.
+This contains Information about my academic career.
