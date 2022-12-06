@@ -2,7 +2,7 @@
 ### This contains Information about my academic career.
   
   <br>
- '''
+ ```
  
   | |SSC|HSC|BSc|
   |-----|-----|------|-----|
@@ -10,4 +10,4 @@
   |Major|Science|Science|Electronics and Communication Engineering|
   |CGPA|5.0|5.0|2.84|
   
- '''
+ ```
