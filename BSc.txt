@@ -1,0 +1,4 @@
+Institution: Khulna University of Engineering and Technology
+Major: Electronics and Communication Engineering
+CGPA: 2.84
+Passing year: 2022
