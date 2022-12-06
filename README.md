@@ -9,4 +9,3 @@
   |Major|Science|Science|Electronics and Communication Engineering|
   |CGPA|5.0|5.0|2.84|
   
- ```
