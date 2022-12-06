@@ -3,7 +3,6 @@
   
   <br>
  ```
- 
   | |SSC|HSC|BSc|
   |-----|-----|------|-----|
   |Institute|B.L Govt. High School|Sirajganj Govt. Collage|Khulna University of Engineering and Technology|
