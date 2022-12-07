@@ -1,5 +1,4 @@
 Institution: Khulna University of Engineering and Technology
 Major: Electronics and Communication Engineering
-Batch: 2k16
 CGPA: 2.84
 Passing year: 2022
